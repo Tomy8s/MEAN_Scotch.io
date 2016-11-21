@@ -1,0 +1,18 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "description": "A simple MEAN todo app",
+  "main": "server.js",
+  "author": "Tomy8s",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tomy8s/MEAN_Scotch.io.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.1.1"
+  },
+  "license": "to kill"
+}t
